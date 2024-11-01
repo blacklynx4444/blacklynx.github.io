@@ -1,0 +1,14 @@
+<svg width="224" height="190" viewBox="0 0 224 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M112 26V2" stroke="#777777" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M112 172V50" stroke="#777777" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M124 38H193" stroke="#777777" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M33 38H100" stroke="#777777" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M2 101C2 112.05 15.43 121 32 121C48.57 121 62 112.05 62 101H2Z" stroke="#777777" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M33 38L2 101" stroke="#777777" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M62 101L33 38" stroke="#777777" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M162 101C162 112.05 175.43 121 192 121C208.57 121 222 112.05 222 101H162Z" stroke="#777777" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M193 38L162 101" stroke="#777777" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M222 101L193 38" stroke="#777777" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M138.78 172H85.22C79.02 172 74 177.02 74 183.22V184.78C74 186.56 75.44 188 77.22 188H146.78C148.56 188 150 186.56 150 184.78V183.22C150 177.02 144.98 172 138.78 172Z" stroke="#777777" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M112 50C118.627 50 124 44.6274 124 38C124 31.3726 118.627 26 112 26C105.373 26 100 31.3726 100 38C100 44.6274 105.373 50 112 50Z" stroke="#777777" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+</svg>
